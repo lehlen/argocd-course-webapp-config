@@ -8,7 +8,7 @@ image:
   repository: celeblung/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 0749f902c21ddbea8352c4aa5505b19b0cd86688
+  tag: 45d23a3c2e3984d52493c0733b8c53150c1674cd
 
 imagePullSecrets: []
 nameOverride: ""
